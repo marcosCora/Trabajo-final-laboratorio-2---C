@@ -1,0 +1,22 @@
+ADMINISTRADOR
+
+El sistema hace diferencias entre mayusculas y minisculas
+
+Usuario............: Oti
+Contraseña.........:lopez15
+
+Usuario............: agusFer
+Contraseña.........: agustin1234
+
+
+USUARIO NORMAL:
+
+Usuario............: tintxo
+Contraseña.........:ogham2211
+
+Usuario............:bruderCerveza
+Contraseña.........:bruder1234
+
+PRODUCTOS:
+EL PRODUCTO CON ID 39 (estilo rubia) ESTA PUESTO PARA PROBAR CUANDO NO QUEDA
+MAS STOCK DE ALGUN PRODUCTO.
